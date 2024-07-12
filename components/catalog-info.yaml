@@ -21,7 +21,7 @@ metadata:
     - supraj
 spec:
   type: service
-  owner: TeamS
+  owner: TeamA
   lifecycle: experimental
 #  system: Demo
 #  dependsOn:
