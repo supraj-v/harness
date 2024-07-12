@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: supraj-service
   description: |
-    My Example service which has something to do with APIs and database.
+    Test service created by supraj.
   links:
     - title: Website
       url: http://harness.io
@@ -21,7 +21,7 @@ metadata:
     - supraj
 spec:
   type: service
-  owner: change-value
+  owner: TeamS
   lifecycle: experimental
 #  system: Demo
 #  dependsOn:
