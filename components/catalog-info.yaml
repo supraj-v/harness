@@ -10,6 +10,7 @@ metadata:
   annotations:
     github.com/project-slug: demo/idp-workshop
     lighthouse.com/website-url: https://demo.io
+    backstage.io/techdocs-ref: url:https://github.com/RoadieHQ/sample-service/tree/main
   tags:
     - supraj
 spec:
