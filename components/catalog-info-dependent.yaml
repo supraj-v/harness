@@ -9,7 +9,6 @@ metadata:
       url: http://demo.io
   annotations:
     github.com/project-slug: demo/idp-workshop
-    backstage.io/techdocs-ref: dir:../
     lighthouse.com/website-url: https://demo.io
   tags:
     - openinnovation
