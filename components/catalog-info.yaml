@@ -16,7 +16,7 @@ spec:
   type: service
   owner: TeamA
   lifecycle: experimental
-#  system: Demo
+  system: openinnnovation-product
 #  dependsOn:
 #    - component:default/fill-in-your-name-service
 #  consumesApis:
