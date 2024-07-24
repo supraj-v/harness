@@ -1,22 +1,15 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: supraj-service
+  name: openinnovation-service
   description: |
-    Test service created by supraj.
+    openinnovation service 2024
   links:
     - title: Website
-      url: http://harness.io
+      url: http://demo.io
   annotations:
-    github.com/project-slug: harnessworkshop/idp-workshop
-    backstage.io/techdocs-ref: dir:../
-    lighthouse.com/website-url: https://harness.io
-#    harness.io/services: |
-#      paymentService: https://app.harness.io/ng/account/IFG41DWvSnaRLOVNB2uesg/cd/orgs/demoorg/projects/paymentservice/services/paymentservice
-#    harness.io/pipelines: |
-#      paymentService: https://app.harness.io/ng/account/IFG41DWvSnaRLOVNB2uesg/cd/orgs/demoorg/projects/paymentservice/pipelines/harnesscicd/pipeline-studio?storeType=INLINE
-#  labels:
-#    key1: value1
+    github.com/project-slug: demo/idp-workshop
+    lighthouse.com/website-url: https://demo.io
   tags:
     - supraj
 spec:
